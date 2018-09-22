@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jaxb-api-2.3.0">
+    <CLASSES>
+      <root url="jar://G:/下载文件夹/demo_pj/jaxb-api-2.3.0.jar!/" />
+      <root url="jar://G:/下载文件夹/demo_pj/jaxb-core-2.3.0.jar!/" />
+      <root url="jar://G:/下载文件夹/demo_pj/jaxb-impl-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
